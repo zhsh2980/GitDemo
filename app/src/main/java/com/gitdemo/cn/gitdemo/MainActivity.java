@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("bro", "dev 推到 master");
         Log.d("bro", "i am dev1");
+        Log.d("bro", "master + 1");
     }
 }
